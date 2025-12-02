@@ -1,2 +1,2 @@
 # HPPL
-tba
+just hw assignments
